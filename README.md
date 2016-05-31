@@ -2,6 +2,7 @@
 Encrypted Chat Client
 
 A general purpose C language based Chat Server/client with encryption built in.
+
 Resources:
 http://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html
 
