@@ -1,7 +1,7 @@
 # Azurith-Chat
 Encrypted Chat Client
 
-A general purpose C language based Chat Server/client with encryption built in.
+A general purpose C language based encrypted Chat/File transfer client.
 
 Resources:
 http://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html
